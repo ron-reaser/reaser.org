@@ -1,0 +1,86 @@
+# Site
+
+baseurl = "https://reaser.org"
+title = "Ron Reaser"
+copyright = "&copy; 2016 Ron Reaser"
+
+# Theme
+
+theme = "academic"
+enableEmoji = false
+footnotereturnlinkcontents = "<sup>^</sup>"
+
+disqusShortname = ""
+googleAnalytics = ""
+
+[blackfriday]
+    hrefTargetBlank = true
+
+# Languages
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+[languages.en]
+    languageCode = "en-us"
+
+# Details
+
+[params]
+    name = "Mr. Reaser"
+    role = "Computer Science Lecturer"
+    organization = "West Virginia University"
+    avatar = "portrait.jpg"
+    email = "ron.reaser@mail.wvu.edu"
+    address = "342 Advanced Engineering Research Building"
+    office_hours = "Office Hours by Appointment"
+
+    phone = "304.293.9687"
+    skype = ""
+    keybase = ""
+
+    date_format = "Monday, January 2, 2006"
+    math = false
+    sharing = false
+
+    custom_css = []
+    custom_js  = []
+
+# Social Icons
+
+[[params.social]]
+    icon = "envelope"
+    icon_pack = "fa"
+    link = "mailto:ron.reaser@mail.wvu.edu"
+
+[[params.social]]
+    icon = "calendar"
+    icon_pack = "fa"
+    link = "//calendly.com/reaser"
+
+[[params.social]]
+    icon = "university"
+    icon_pack = "fa"
+    link = "http://www.statler.wvu.edu/faculty-staff/faculty/ron-reaser"
+
+# Menu
+
+[[menu.main]]
+    name = "About"
+    url = "#about"
+    weight = 1
+
+[[menu.main]]
+    name = "Contact"
+    url = "#contact"
+    weight = 2
+
+[[menu.main]]
+    name = "Appointments"
+    url = "#appointments"
+    weight = 3
+
+[[menu.main]]
+    name = "Teaching"
+    url = "#teaching"
+    weight = 4
