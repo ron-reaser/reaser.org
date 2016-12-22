@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture on Ron Reaser</title>
+    <link>/tags/lecture/index.xml</link>
+    <description>Recent content in Lecture on Ron Reaser</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Ron Reaser</copyright>
+    <atom:link href="/tags/lecture/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CS 110</title>
+      <link>/project/cs110/</link>
+      <pubDate>Thu, 22 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/cs110/</guid>
+      <description>
+
+&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;
+
+&lt;p&gt;Mastery of college algebra.&lt;/p&gt;
+
+&lt;h2 id=&#34;learning-outcomes&#34;&gt;Learning Outcomes&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&#34;fa fa-file-code-o fa-2x fa-pull-left fa-border&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Upon successful completion of this course, students will be able to program efficiently in Java at an intermediate level. Students will understand how to use control structures, arrays, input/output techniques, object oriented programming, graphical user interfaces, and recursion to develop basic software programs according to provided specifications. They will also gain a strong foundation for future computer science topics and will be fully prepared for further programming studies.&lt;/p&gt;
+
+&lt;h2 id=&#34;textbook&#34;&gt;Textbook&lt;/h2&gt;
+
+&lt;p&gt;The &lt;strong&gt;strongly recommended&lt;/strong&gt; text is &lt;em&gt;Java Concepts: Early Objects&lt;/em&gt; 8th Edition &lt;code&gt;ISBN 978‑1119056454&lt;/code&gt; by Cay Horstmann for reading and reference. Other Java books by the same author are usable as long as they comply with Java 6 or newer.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CS 111</title>
+      <link>/project/cs111/</link>
+      <pubDate>Thu, 22 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/cs111/</guid>
+      <description>
+
+&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;
+
+&lt;p&gt;Mastery of college algebra. Introductory Java programming in &lt;a href=&#34;../cs110&#34;&gt;CS 110&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;learning-outcomes&#34;&gt;Learning Outcomes&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&#34;fa fa-file-code-o fa-2x fa-pull-left fa-border&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Upon successful completion of this course, students will be able to design and implement classes in Java using object oriented programming, generics, interfaces, inheritance, polymorphism, and encapsulation; will understand the goals and principles of software engineering and be able to demonstrate those skills in their work; will be able to design and implement recursive solutions and abstract data types such as stacks, queues, lists, and trees; and will be able to analyze and compare the efficiency of different algorithms and different implementations of abstract data types.&lt;/p&gt;
+
+&lt;h2 id=&#34;textbook&#34;&gt;Textbook&lt;/h2&gt;
+
+&lt;p&gt;The optional text is &lt;em&gt;Data Structures: Abstraction and Design Using Java&lt;/em&gt; 3rd Edition &lt;code&gt;ISBN 978-1-119-18652-6&lt;/code&gt; by Koffman and Wolfgang for reading and reference.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CS 210</title>
+      <link>/project/cs210/</link>
+      <pubDate>Thu, 22 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/cs210/</guid>
+      <description>
+
+&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;
+
+&lt;p&gt;Mastery of college algebra. Intermediate Java programming in &lt;a href=&#34;../cs111&#34;&gt;CS 111&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;learning-outcomes&#34;&gt;Learning Outcomes&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&#34;fa fa-file-code-o fa-2x fa-pull-left fa-border&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Upon successful completion of this course, students will be able to program efficiently in Java at an experienced level. Students will utilize a test-driven development cycle to implement a novice relational database management system supporting a simplified subset of Structured Query Language and stored using serializable hash maps. Students will cement their foundation for future programming courses and will reinforce supplemental topics such as regular expressions, unit testing, version control systems, and standardized data interchange formats such as XML and JSON.&lt;/p&gt;
+
+&lt;h2 id=&#34;textbook&#34;&gt;Textbook&lt;/h2&gt;
+
+&lt;p&gt;There is no assigned textbook.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CS 220</title>
+      <link>/project/cs220/</link>
+      <pubDate>Thu, 22 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/cs220/</guid>
+      <description>
+
+&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;
+
+&lt;p&gt;Mastery of college algebra. Introductory Java programming in &lt;a href=&#34;../cs110&#34;&gt;CS 110&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;learning-outcomes&#34;&gt;Learning Outcomes&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&#34;fa fa-superscript fa-2x fa-pull-left fa-border&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Upon successful completion of this course, students will be well-versed in propositional and predicate logic; proof-solving techniques such as direct proof, contradiction, and mathematical induction; sets, counting, combinatorics, and probability; functions, binary relations, and recurrence relations; and graphs and algorithms upon them, as time allows. These topics will provide a broad mathematical foundation for future computer science courses and improve the logical and abstraction skills of the students.&lt;/p&gt;
+
+&lt;h2 id=&#34;textbook&#34;&gt;Textbook&lt;/h2&gt;
+
+&lt;p&gt;The &lt;strong&gt;required&lt;/strong&gt; text is &lt;em&gt;Mathematical Structures for Computer Science: Discrete Mathematics and Its Applications&lt;/em&gt; 7th Edition &lt;code&gt;ISBN 978-1-4292-1510-7&lt;/code&gt; by Judith Gersting and it is necessary for readings, homework problems, and reference. You are responsible for any graded work you cannot complete due to lack of a book.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CS 310</title>
+      <link>/project/cs310/</link>
+      <pubDate>Thu, 22 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/cs310/</guid>
+      <description>
+
+&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;
+
+&lt;p&gt;Mastery of college algebra. Intermediate Java programming in &lt;a href=&#34;../cs111&#34;&gt;CS 111&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;learning-outcomes&#34;&gt;Learning Outcomes&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&#34;fa fa-book fa-2x fa-pull-left fa-border&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Upon successful completion of this course, students will understand the imperative paradigm (viz. procedural languages), declarative paradigm (viz. functional and logical languages), structured paradigm (viz. block and object-orientation), context-free grammars, Backus-Naur form, syntax derivations, operational semantics, denotational semantics, axiomatic semantics, finite-state automata, regular expressions, recursive descent parsers, language translation, declarations, expressions, assignments, data types, control structures, procedures, and abstract data types. Students will be able to identify these concepts in different languages and apply them to practical tasks.&lt;/p&gt;
+
+&lt;h2 id=&#34;textbook&#34;&gt;Textbook&lt;/h2&gt;
+
+&lt;p&gt;The &lt;strong&gt;required&lt;/strong&gt; text is &lt;em&gt;Concepts of Programming Languages&lt;/em&gt; 10th Edition &lt;code&gt;ISBN 978-0-13-139531-2&lt;/code&gt; by Robert Sebesta for reading, reference, and assignment. Note that this is not the latest edition. Because most of the out-of-class work will be completed in groups, it is permissible for multiple students, typically within a group, to share a limited number of copies by mutual agreement rather than each student owning their own individual copy, as long as each group member has reasonable and timely access.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CS 440</title>
+      <link>/project/cs440/</link>
+      <pubDate>Thu, 22 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/cs440/</guid>
+      <description>
+
+&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;
+
+&lt;p&gt;Software engineering in CS 230.&lt;/p&gt;
+
+&lt;h2 id=&#34;learning-outcomes&#34;&gt;Learning Outcomes&lt;/h2&gt;
+
+&lt;p&gt;Details for this course are pending. &lt;i class=&#34;fa fa-circle-o-notch fa-spin fa-fw&#34;&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;textbook&#34;&gt;Textbook&lt;/h2&gt;
+
+&lt;p&gt;There is no assigned textbook.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
