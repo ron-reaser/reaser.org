@@ -9,10 +9,6 @@ weight = 40
 view = 1
 
 [[filter]]
-    name = "No Filter"
-    tag = "*"
-
-[[filter]]
     name = "Lectures"
     tag = ".lecture"
 
