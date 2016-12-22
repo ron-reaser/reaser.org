@@ -1,6 +1,6 @@
 # Site
 
-baseurl = "https://reaser.org"
+baseurl = "/"
 title = "Ron Reaser"
 copyright = "&copy; 2016 Ron Reaser"
 
