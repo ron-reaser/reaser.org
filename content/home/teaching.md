@@ -8,21 +8,21 @@ weight = 40
 
 view = 1
 
-[[filter]]
-    name = "All"
-    tag = "*"
+#[[filter]]
+#    name = "All"
+#    tag = "*"
 
-[[filter]]
-    name = "Lecture"
-    tag = ".lecture"
+#[[filter]]
+#    name = "Lecture"
+#    tag = ".lecture"
 
-[[filter]]
-    name = "Practicum"
-    tag = ".practicum"
+#[[filter]]
+#    name = "Practicum"
+#    tag = ".practicum"
 
-[[filter]]
-    name = "Independent Study"
-    tag = ".study"
+#[[filter]]
+#    name = "Independent Study"
+#    tag = ".study"
 
 +++
 
