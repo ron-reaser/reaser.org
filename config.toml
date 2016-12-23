@@ -84,3 +84,8 @@ defaultContentLanguageInSubdir = false
     name = "Teaching"
     url = "#teaching"
     weight = 4
+
+aliases = [
+    "/project/",
+    "/course/"
+]
