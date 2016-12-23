@@ -59,7 +59,7 @@ defaultContentLanguageInSubdir = false
     link = "//calendly.com/reaser"
 
 [[params.social]]
-    icon = "university"
+    icon = "address-book"
     icon_pack = "fa"
     link = "http://www.statler.wvu.edu/faculty-staff/faculty/ron-reaser"
 
