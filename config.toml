@@ -54,6 +54,11 @@ defaultContentLanguageInSubdir = false
     link = "mailto:ron.reaser@mail.wvu.edu"
 
 [[params.social]]
+    icon = "slack"
+    icon_pack = "fa"
+    link = "http://reaser.slack.com"
+
+[[params.social]]
     icon = "calendar"
     icon_pack = "fa"
     link = "//calendly.com/reaser"
