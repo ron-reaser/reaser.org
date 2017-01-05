@@ -56,12 +56,12 @@ defaultContentLanguageInSubdir = false
 [[params.social]]
     icon = "slack"
     icon_pack = "fa"
-    link = "http://reaser.slack.com"
+    link = "https://reaser.slack.com"
 
 [[params.social]]
     icon = "calendar"
     icon_pack = "fa"
-    link = "//calendly.com/reaser"
+    link = "https://calendly.com/reaser"
 
 [[params.social]]
     icon = "address-book"
