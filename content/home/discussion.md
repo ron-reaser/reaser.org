@@ -1,5 +1,5 @@
 +++
-date = "2017-1-4"
+date = "2017-01-04"
 draft = false
 title = "Discussion"
 subtitle = ""
