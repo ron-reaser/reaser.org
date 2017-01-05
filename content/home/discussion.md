@@ -1,7 +1,7 @@
 +++
 date = "2017-01-04"
 draft = false
-title = "Discussion"
+title = "Discussions"
 subtitle = ""
 widget = "custom"
 weight = 35
