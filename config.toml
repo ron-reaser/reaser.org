@@ -86,6 +86,11 @@ defaultContentLanguageInSubdir = false
     weight = 3
 
 [[menu.main]]
+    name = "Discussion"
+    url = "#discussion"
+    weight = 4
+
+[[menu.main]]
     name = "Teaching"
     url = "#teaching"
-    weight = 4
+    weight = 5
