@@ -28,7 +28,7 @@ defaultContentLanguageInSubdir = false
 
 [params]
     name = "Mr. Reaser"
-    role = "Computer Science Lecturer"
+    role = "Lecturer, LCSEE"
     organization = "West Virginia University"
     avatar = "portrait.jpg"
     email = "ron.reaser@mail.wvu.edu"
