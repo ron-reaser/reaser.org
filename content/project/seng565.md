@@ -18,7 +18,9 @@ Completion of SENG 550.
 
 ## Learning Outcomes
 
-_This course is currently listed as a special topics course with the code SENG 591b. The tentative permanent course code is SENG 565._
+_This course is currently listed as a special topics course with the code SENG 591b.
+
+The tentative permanent course code is SENG 565._
 
 Upon successful completion of this course, students will be able to...
 1. Design relational databases using entity-relationship (ER) diagrams.
@@ -26,10 +28,10 @@ Upon successful completion of this course, students will be able to...
 3. Translate ER diagrams to RM schemas.
 4. Create relational database schemas by writing data definition language (DDL) queries in Structured Query Language (SQL).
 5. Solve nontrivial problems using databases by writing data manipulation language (DML) queries in Structured Query Language (SQL).
-6-8. Create applications using these industry-standard software stacks:
-6. Oracle Database (relational model) with Java code and JDBC driver.
-7. MySQL (relational model) with PHP code and MySQLi driver.
-8. MongoDB ("NoSQL" model) with Node.js code and official driver.
+6. Create applications using these industry-standard software stacks:
+    1. Oracle Database (relational model) with Java code and JDBC driver.
+    2. MySQL (relational model) with PHP code and MySQLi driver.
+    3. MongoDB ("NoSQL" model) with Node.js code and official driver.
 
 Full syllabus is available upon request.
 
