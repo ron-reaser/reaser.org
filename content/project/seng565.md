@@ -1,7 +1,7 @@
 +++
 date = "2019-06-04"
 draft = false
-title = "SENG 591b (tentatively SENG 565)"
+title = "SENG 565"
 summary = "Database Design and Implementation"
 tags = ["lecture", "seng"]
 image_preview = ""
@@ -17,6 +17,8 @@ Enrollment in LCSEE's online MSSE program.
 Completion of SENG 550.
 
 ## Learning Outcomes
+
+_This course is currently listed as a special topics course with the code SENG 591b. The tentative permanent course code is SENG 565._
 
 Upon successful completion of this course, students will be able to...
 1. Design relational databases using entity-relationship (ER) diagrams.

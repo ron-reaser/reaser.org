@@ -9,7 +9,7 @@ weight = 10
   interests = [
     "Curriculum Development",
     "Educational Tools",
-    "Theory and Mathematics",
+    "CS Theory and Mathematics",
   ]
 
 [[education.courses]]
@@ -27,4 +27,4 @@ weight = 10
 
 I am a Lecturer of computer science and mathematics with the [Lane Department](http://www.lcsee.cemr.wvu.edu/ of Computer Science and Electrical Engineering) at [West Virginia University](http://www.wvu.edu/) with over a decade of experience teaching undergraduates and graduates.
 
-My career goal is to better meet the academic needs of my students by improving the curriculum and assessment techniques in my field and by developing software tools and collaborative workflows that further that goal.
+My career goal is to better meet the academic needs of my students by improving the curriculum and assessment techniques in my field and by developing software tools and collaborative workflows.
