@@ -14,24 +14,35 @@ math = false
 
 Enrollment in LCSEE's online MSSE program.
 
-Completion of SENG 550.
+Completion of SENG 55
++
 
 ## Learning Outcomes
 
 _This course is currently listed as a special topics course with the code SENG 591b.
 
-The tentative permanent course code is SENG 565._
+The tentative permanent course code is SENG 56
++_
 
 Upon successful completion of this course, students will be able to...
-1. Design relational databases using entity-relationship (ER) diagrams.
-2. Design relational databases using relational model (RM) schemas.
-3. Translate ER diagrams to RM schemas.
-4. Create relational database schemas by writing data definition language (DDL) queries in Structured Query Language (SQL).
-5. Solve nontrivial problems using databases by writing data manipulation language (DML) queries in Structured Query Language (SQL).
-6. Create applications using these industry-standard software stacks:
-    1. Oracle Database (relational model) with Java code and JDBC driver.
-    2. MySQL (relational model) with PHP code and MySQLi driver.
-    3. MongoDB ("NoSQL" model) with Node.js code and official driver.
+
++ Design relational databases using entity-relationship (ER) diagrams.
+
++ Design relational databases using relational model (RM) schemas.
+
++ Translate ER diagrams to RM schemas.
+
++ Create relational database schemas by writing data definition language (DDL) queries in Structured Query Language (SQL).
+
++ Solve nontrivial problems using databases by writing data manipulation language (DML) queries in Structured Query Language (SQL).
+
++ Create applications using these industry-standard software stacks:
+
+    + Oracle Database (relational model) with Java code and JDBC driver.
+
+    + MySQL (relational model) with PHP code and MySQLi driver.
+
+    + MongoDB ("NoSQL" model) with Node.js code and official driver.
 
 Full syllabus is available upon request.
 
