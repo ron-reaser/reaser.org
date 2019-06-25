@@ -8,8 +8,8 @@ weight = 10
 [interests]
   interests = [
     "Curriculum Development",
-    "Educational Tools",
-    "CS Theory and Mathematics",
+    "Academic Software",
+    "Student Mentorship"
   ]
 
 [[education.courses]]
@@ -27,4 +27,4 @@ weight = 10
 
 I am a Teaching Instructor with the [Lane Department of Computer Science and Electrical Engineering](https://lcsee.statler.wvu.edu/) at [West Virginia University](http://www.wvu.edu/) with over a decade of experience teaching undergraduates and graduates in computer science and mathematics.
 
-My career goal is to better meet the academic needs of my students by improving the curriculum and assessment techniques in my field and by developing software tools and collaborative workflows.
+My career goal is to better meet the academic needs of my students by improving the curriculum and assessment techniques in my field, by developing software tools and collaborative workflows, and by mentoring successive generations of educators and academic professionals.
