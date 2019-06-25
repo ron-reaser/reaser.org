@@ -28,11 +28,11 @@ defaultContentLanguageInSubdir = false
 
 [params]
     name = "Mr. Reaser"
-    role = "Lecturer, LCSEE"
+    role = "Teaching Instructor"
     organization = "West Virginia University"
     avatar = "portrait.jpg"
     email = "ron.reaser@mail.wvu.edu"
-    address = "342 AERB on Evansdale Campus"
+    address = "AER 251 on Evansdale Campus"
     office_hours = "Office Hours by Appointment"
 
     phone = "304-293-9687"
