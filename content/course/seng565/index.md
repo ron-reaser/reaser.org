@@ -1,13 +1,12 @@
 +++
-date = "2019-06-04"
-draft = false
+date = 2019-08-14
+author = "reaser"
+
 title = "SENG 565"
 summary = "Database Design and Implementation"
-tags = ["lecture", "seng"]
-image_preview = ""
-image = ""
-external_link = ""
-math = false
+tags = ["lecture", "seng", "online", "graduate", "theory"]
+
+weight = 565
 +++
 
 ## Major Prerequisites

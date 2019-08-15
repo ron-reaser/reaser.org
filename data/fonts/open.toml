@@ -1,0 +1,15 @@
+# Font style metadata
+name = "Open"
+
+# Optional Google font URL
+google_fonts = "Open+Sans"
+
+# Font families
+heading_font = "Open Sans"
+body_font = "Open Sans"
+nav_font = "Open Sans"
+mono_font = "Open Sans"
+
+# Font size
+font_size = "20"
+font_size_small = "16"

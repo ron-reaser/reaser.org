@@ -1,30 +1,10 @@
 +++
-date = "2019-06-24"
-draft = false
 title = "About"
+author = "reaser"
+
 widget = "about"
-weight = 10
 
-[interests]
-  interests = [
-    "Curriculum Development",
-    "Academic Software",
-    "Student Mentorship"
-  ]
-
-[[education.courses]]
-  course = "M.S. Computer Science"
-  institution = "West Virginia University"
-  year = 2011
-
-[[education.courses]]
-  course = "B.S. Software Engineering"
-  institution = "Alderson-Broaddus College"
-  year = 2008
+headless = true
+active = true
+weight = 1
 +++
-
-# About
-
-I am a Teaching Instructor with the [Lane Department of Computer Science and Electrical Engineering](https://lcsee.statler.wvu.edu/) at [West Virginia University](http://www.wvu.edu/) with over a decade of experience teaching undergraduates and graduates in computer science and mathematics.
-
-My career goal is to better meet the academic needs of my students by improving the curriculum and assessment techniques in my field, by developing software tools and collaborative workflows, and by mentoring successive generations of educators and academic professionals.

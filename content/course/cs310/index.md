@@ -1,13 +1,12 @@
 +++
-date = "2019-06-04"
-draft = false
+date = 2019-08-14
+author = "reaser"
+
 title = "CS 310"
 summary = "Principles of Programming Languages"
-tags = ["lecture", "cs"]
-image_preview = ""
-image = ""
-external_link = ""
-math = false
+tags = ["lecture", "cs", "theory"]
+
+weight = 310
 +++
 
 ## Major Prerequisites
@@ -40,6 +39,4 @@ Full syllabus is available upon request.
 
 ## Textbook
 
-The **required** text is _Concepts of Programming Languages_ 11th Edition by Robert Sebesta `ISBN 978-0-13-394302-3` for reading, reference, and assignment. The older 10th edition `ISBN 978-0-13-139531-2` is acceptable. Because most of the out-of-class work will be completed in teams, it is reasonable for team members to share a copy or two as long as everyone has equal access.
-
-The **recommended** text is _Concepts of Programming Languages_ 11th Edition by Robert Sebesta (`ISBN 978-0-13-394302-3`) for reading and reference. Older or newer editions are acceptable.
+The **recommended** text is _Concepts of Programming Languages_ 11th Edition by Robert Sebesta (`ISBN 978-0-13-394302-3`, out of print) for reading and reference. Older or newer editions are acceptable. Because most of the out-of-class work will be completed in teams, it is reasonable for team members to share a copy or two as long as everyone has reliable access.

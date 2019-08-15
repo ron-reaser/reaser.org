@@ -1,13 +1,12 @@
 +++
-date = "2019-08-15"
-draft = false
+date = 2019-08-14
+author = "reaser"
+
 title = "CS 110"
 summary = "Introduction to Computer Science"
-tags = ["lecture", "cs"]
-image_preview = ""
-image = ""
-external_link = ""
-math = false
+tags = ["lecture", "cs", "practical"]
+
+weight = 110
 +++
 
 ## Learning Outcomes

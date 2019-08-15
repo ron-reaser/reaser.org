@@ -1,0 +1,20 @@
+# Theme metadata
+name = "WVU"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#005EB8"
+primary_light = "#9BD3DD"
+primary_dark = "#0033A0"
+
+# Menu
+menu_primary = "#002855"
+menu_text = "#9BD3DD"
+menu_text_active = "#ffffff"
+menu_title = "#ffffff"
+
+# Home sections
+home_section_odd = "#ffffff"
+home_section_even = "#eeeeee"

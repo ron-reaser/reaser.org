@@ -1,13 +1,12 @@
 +++
-date = "2019-08-15"
-draft = false
+date = 2019-08-14
+author = "reaser"
+
 title = "CS 111"
 summary = "Introduction to Data Structures"
-tags = ["lecture", "cs"]
-image_preview = ""
-image = ""
-external_link = ""
-math = false
+tags = ["lecture", "cs", "practical"]
+
+weight = 111
 +++
 
 ## Major Prerequisites

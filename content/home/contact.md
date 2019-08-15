@@ -1,9 +1,13 @@
 +++
-date = "2016-12-22"
-draft = false
 title = "Contact"
-subtitle = ""
+author = "reaser"
+
 widget = "contact"
-weight = 20
+
+headless = true
+active = true
+weight = 2
+
 autolink = true
+email_form = 0
 +++

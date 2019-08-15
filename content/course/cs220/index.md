@@ -1,13 +1,12 @@
 +++
-date = "2019-06-04"
-draft = false
+date = 2019-08-14
+author = "reaser"
+
 title = "CS 220"
 summary = "Discrete Mathematics"
-tags = ["lecture", "cs"]
-image_preview = ""
-image = ""
-external_link = ""
-math = false
+tags = ["lecture", "cs", "theory"]
+
+weight = 220
 +++
 
 ## Major Prerequisites

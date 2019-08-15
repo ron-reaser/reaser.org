@@ -1,18 +1,17 @@
 +++
-date = "2019-06-04"
-draft = false
+date = 2019-08-14
+author = "reaser"
+
 title = "CS 490"
 summary = "Teaching Practicum"
-tags = ["practicum", "cs"]
-image_preview = ""
-image = ""
-external_link = ""
-math = false
+tags = ["permission", "cs"]
+
+weight = 490
 +++
 
 ## Major Prerequisites
 
-Permission of instructor with completion of [CS 210](../cs210).
+Permission of instructor upon completion of [CS 210](../cs210).
 
 ## Overview
 
