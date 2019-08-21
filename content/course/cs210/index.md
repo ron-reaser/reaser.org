@@ -1,5 +1,5 @@
 +++
-date = 2019-08-14
+date = 2019-08-21
 author = "reaser"
 
 title = "CS 210"
@@ -17,20 +17,35 @@ Completion of [CS 111](../cs111).
 
 Upon successful completion of this course, students will be able to...
 
-+ Write programs using Java source code at an experienced level.
++	Write programs using Java source code at an experienced level.
 
-+ Practice the use of version control systems and unit testing in development.
++	Employ version control systems in software development.
 
-+ Develop a relational database management system featuring an SQL interpreter:
++	Employ unit testing and test-driven development in software development.
 
-    + Implement data definition query drivers and data manipulation query drivers using regular expressions and integrate these drivers with a relational database structure using a map of lists abstraction.
++	Employ analysis of algorithms to design efficient solutions to nontrivial problems.
 
-    + Translate between the map of lists abstraction and tabular representation of database tables.
++	Prepare regular expressions to interpret user inputs.
 
-    + Apply serialization and deserialization techniques to relational databases using standardized data interchange file formats including binary objects, XML, and JSON.
++	Create a database management system as a data structure:
 
-+ Develop a hash map implementation for the map of lists abstraction using hashing and collision resolution techniques.
-There is no assigned textbook.
+	+	Prepare Structured Query Language queries:
+
+		+	Prepare data definition language queries to define the schemas of tables.
+
+		+	Prepare data manipulation language queries to modify the states of tables.
+
+	+	Apply the relational model to translate databases between tables of rows and maps of lists.
+
+	+	Employ serialization and deserialization techniques on databases using XML and JSON encoding.
+
++	Create a hash map as a file structure:
+
+	+	Employ hashing on key data using random access files.
+
+	+	Employ collision resolution techniques such as open addressing and chaining.
+
+	+	Employ indexes to access nonkey data efficiently.
 
 Full syllabus is available upon request.
 
