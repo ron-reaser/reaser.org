@@ -43,7 +43,7 @@ interests = [
   year = 2011
 
 [[education.courses]]
-  course = "B.S. Software Engineering"
+  course = "B.S. Computing (Sw. Eng.)"
   institution = "Alderson-Broaddus University"
   year = 2008
 
