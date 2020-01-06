@@ -4,7 +4,7 @@ author = "reaser"
 
 title = "CS 440"
 summary = "Database Design and Theory"
-tags = ["lecture", "cs", "elective", "theory"]
+tags = ["lecture", "cs", "elective", "theory", "honors"]
 
 weight = 440
 +++
@@ -12,6 +12,10 @@ weight = 440
 ## Major Prerequisites
 
 Completion of CS 230.
+
+## Honors
+
+This course is cross-listed for credit in the honors program.
 
 ## Learning Outcomes
 

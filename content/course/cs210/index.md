@@ -4,7 +4,7 @@ author = "reaser"
 
 title = "CS 210"
 summary = "File and Data Structures"
-tags = ["lecture", "cs", "practical"]
+tags = ["lecture", "cs", "practical", "honors"]
 
 weight = 210
 +++
@@ -12,6 +12,10 @@ weight = 210
 ## Major Prerequisites
 
 Completion of [CS 111](../cs111).
+
+## Honors
+
+This course is cross-listed for credit in the honors program.
 
 ## Learning Outcomes
 
