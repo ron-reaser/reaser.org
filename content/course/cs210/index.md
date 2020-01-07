@@ -1,5 +1,5 @@
 +++
-date = 2019-08-21
+date = 2020-01-06
 author = "reaser"
 
 title = "CS 210"
@@ -27,9 +27,9 @@ Upon successful completion of this course, students will be able to...
 
 +	Employ unit testing and test-driven development in software development.
 
-+	Employ analysis of algorithms to design efficient solutions to nontrivial problems.
-
 +	Prepare regular expressions to interpret user inputs.
+
++	Employ analysis of algorithms to design efficient solutions to nontrivial problems.
 
 +	Create a database management system as a data structure:
 
@@ -43,13 +43,13 @@ Upon successful completion of this course, students will be able to...
 
 	+	Employ serialization and deserialization techniques on databases using XML and JSON encoding.
 
-+	Create a hash map as a file structure:
++	Create a hash map both as a data structure and as a file structure:
 
-	+	Employ hashing on key data using random access files.
+	+	Employ hashing and primary indexing using both arrays and random access files.
 
 	+	Employ collision resolution techniques such as open addressing and chaining.
 
-	+	Employ indexes to access nonkey data efficiently.
+	+	Employ deep and shallow copying and secondary indexing to access and mutate data efficiently.
 
 Full syllabus is available upon request.
 

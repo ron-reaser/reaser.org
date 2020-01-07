@@ -1,5 +1,5 @@
 +++
-date = 2019-08-14
+date = 2020-01-06
 author = "reaser"
 
 title = "CS 310"
@@ -39,4 +39,4 @@ Full syllabus is available upon request.
 
 ## Textbook
 
-The **recommended** text is _Concepts of Programming Languages_ 11th Edition by Robert Sebesta (`ISBN 978-0-13-394302-3`, out of print) for reading and reference. Older or newer editions are acceptable. Because most of the out-of-class work will be completed in teams, it is reasonable for team members to share a copy or two as long as everyone has reliable access.
+The **recommended** text is _Concepts of Programming Languages_ 12th Edition by Robert Sebesta (`ISBN 9780135102251`) for out-of-class reading and study. The 9th, 10th, and 11th editions are acceptable.
