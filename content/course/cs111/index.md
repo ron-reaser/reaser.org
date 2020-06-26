@@ -1,5 +1,5 @@
 +++
-date = 2020-01-06
+date = 2020-06-24
 author = "reaser"
 
 title = "CS 111"
@@ -23,7 +23,7 @@ Upon successful completion of this course, students will be able to...
 
 + Employ recursion and analysis of algorithms to design efficient solutions to nontrivial problems.
 
-+ Employ object-oriented programming techniques including generic types, iterators, cascade calls, interfaces, inheritance, polymorphism, and encapsulation.
++ Employ object-oriented programming techniques including generic types, iterators, method chaining, interfaces, inheritance, polymorphism, and encapsulation.
 
 + Employ data structures using static and dynamic memory allocation including lists, stacks, queues, priority queues, sets, binary search trees, and heaps.
 
