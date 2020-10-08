@@ -1,5 +1,5 @@
 +++
-date = 2020-01-06
+date = 2020-08-26
 author = "reaser"
 
 title = "CS 440"
@@ -15,7 +15,7 @@ Completion of CS 230.
 
 ## Honors
 
-This course is cross-listed for credit in the honors program.
+This course offers a section for students in the honors program.
 
 ## Learning Outcomes
 

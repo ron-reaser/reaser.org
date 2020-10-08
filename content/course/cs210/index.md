@@ -15,7 +15,7 @@ Completion of [CS 111](../cs111).
 
 ## Honors
 
-This course is cross-listed for credit in the honors program.
+This course offers a section for students in the honors program.
 
 ## Learning Outcomes
 
