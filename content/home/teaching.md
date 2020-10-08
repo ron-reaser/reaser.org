@@ -17,9 +17,9 @@ weight = 5
     name = "All"
     tag = "*"
 
-  [[content.filter_button]]
-    name = "CS"
-    tag = "cs"
+  #[[content.filter_button]]
+    #name = "CS"
+    #tag = "cs"
 
   [[content.filter_button]]
     name = "Elective"
@@ -29,9 +29,9 @@ weight = 5
     name = "Honors"
     tag = "honors"
 
-  [[content.filter_button]]
-    name = "Online"
-    tag = "online"
+  #[[content.filter_button]]
+    #name = "Online"
+    #tag = "online"
 
 [design]
   view = 1
