@@ -20,7 +20,7 @@ organizations = [
 ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Teaching Instructor at West Virginia University."
+bio = "Lane Department at West Virginia University."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email = "ron.reaser@mail.wvu.edu"
