@@ -22,10 +22,6 @@ weight = 5
     tag = "cs"
 
   [[content.filter_button]]
-    name = "SENG"
-    tag = "seng"
-
-  [[content.filter_button]]
     name = "Elective"
     tag = "elective"
 
