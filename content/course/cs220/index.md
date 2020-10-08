@@ -1,5 +1,5 @@
 +++
-date = 2019-08-14
+date = 2020-08-26
 author = "reaser"
 
 title = "CS 220"
@@ -17,22 +17,22 @@ Completion of [CS 110](../cs110).
 
 Upon successful completion of this course, students will be able to...
 
-+ Interpret and explain concepts in propositional logic and first-order predicate logic.
++ Interpret the concepts of propositional logic and first-order predicate logic.
 
-+ Employ proof-solving techniques including direct proof, proof by contradiction, and mathematical induction.
++ Employ proof-solving techniques including direct proof, proof by contraposition, proof by contradiction, proof by exhaustion, and counterexample and mathematical induction.
 
-+ Interpret and explain concepts in set theory and counting.
++ Interpret the concepts of set theory and counting.
 
-+ Employ combinatorics and discrete probability to solve theoretical and practical problems.
++ Employ permutations and combinations and discrete probability.
 
-+ Recognize binary relations, functions, and their properties, including orders of magnitude.
++ Interpret binary relations including partial orderings and equivalence relations.
 
-+ Employ graphs and graph algorithms to solve theoretical and practical problems in graph theory.
++ Interpret Boolean algebras and recurrence relations.
 
-+ Apply the curriculum to improve mathematical abstraction and critical thinking abilities.
++ Appraise mathematical structures for solving nontrivial problems.
 
 Full syllabus is available upon request.
 
 ## Textbook
 
-The **required** text is _Mathematical Structures for Computer Science: Discrete Mathematics and Its Applications_ 7th Edition by Judith Gersting for reading, reference, and homework. The older 6th Edition of the book is acceptable.
+The **required** text is _Mathematical Structures for Computer Science: Discrete Mathematics and Its Applications_ 7th Edition by Judith Gersting for study, reference, and homework.
