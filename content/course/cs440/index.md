@@ -1,5 +1,5 @@
 +++
-date = 2020-08-26
+date = 2021-01-12
 author = "reaser"
 
 title = "CS 440"
@@ -25,11 +25,11 @@ Upon successful completion of this course, students will be able to...
 
 + Utilize the entity-relationship model to diagram and iterate database schemas.
 
-+ Employ the relational model with normalization up to 3NF, relational algebra, and relational calculus.
++ 3	Employ the relational model including relational algebra, relational calculus, and translation from the entity-relationship model with normalization using normal.
 
 + Write data definition and data manipulation queries using Structured Query Language.
 
-+ Create and examine databases using industry-standard technologies, including:
++ Create and examine databases using industry-standard technologies including:
 
     + Oracle Database with Java for desktop applications.
 
