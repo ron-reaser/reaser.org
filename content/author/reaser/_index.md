@@ -64,7 +64,7 @@ interests = [
 [[social]]
     icon = "address-book"
     icon_pack = "fas"
-    link = "http://www.statler.wvu.edu/faculty-staff/faculty/ron-reaser"
+    link = "https://directory.statler.wvu.edu/faculty-staff-directory/ron-reaser"
 
 [[social]]
     icon = "slack"
