@@ -1,5 +1,5 @@
 +++
-date = 2020-08-26
+date = 2021-08-05
 author = "reaser"
 
 title = "CS 210"
@@ -21,35 +21,23 @@ This course offers a section for students in the honors program.
 
 Upon successful completion of this course, students will be able to...
 
-+ Write programs using Java source code at an experienced level.
++	Write programs using Java source code at an experienced level.
 
-+ Employ version control systems in software development.
++	Employ version control systems and unit testing in software development.
 
-+ Employ unit testing and test-driven development in software development.
++	Create a hash table using an array data structure with hashing and collision resolution techniques.
 
-+ Prepare regular expressions to interpret user inputs.
++	Create a hash table using a random access file structure with similar techniques.
 
-+ Employ analysis of algorithms to design efficient solutions to nontrivial problems.
++	Optimize a hash table using rehashing, indexing, and deep versus shallow copying techniques.
 
-+ Create a database management system as a data structure:
++	Prepare regular expressions to interpret user inputs in Structured Query Language.
 
-  + Prepare Structured Query Language queries:
++	Create table schemas, mutate table states, and access table states in a relational model database.
 
-    + Prepare data definition language queries to define the schemas of tables.
++	Employ serialization and deserialization techniques on tables using XML and JSON file structures.
 
-    + Prepare data manipulation language queries to modify the states of tables.
-
-  + Apply the relational model to translate databases between tables of rows and maps of lists.
-
-  + Employ serialization and deserialization techniques on databases using XML and JSON encodings.
-
-+ Create a hash map both as a data structure and as a file structure:
-
-  + Employ hashing and primary indexing using both arrays and random access files.
-
-  + Employ collision resolution techniques such as open addressing and chaining.
-
-  + Employ deep and shallow copying and secondary indexing to access and mutate data efficiently.
++	Employ analysis of algorithms to design efficient solutions to nontrivial problems.
 
 Full syllabus is available upon request.
 
