@@ -4,7 +4,7 @@ author = "reaser"
 
 headless = true
 active = true
-weight = 5
+weight = 6
 +++
 
 You can contact me or my teaching assistants via [our Slack team](https://reaser.slack.com) to discuss topics related to courses or projects we are involved in together.

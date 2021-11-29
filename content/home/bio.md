@@ -1,5 +1,5 @@
 +++
-title = "About"
+title = "Bio"
 author = "reaser"
 
 widget = "about"

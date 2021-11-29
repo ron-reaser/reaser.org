@@ -6,7 +6,7 @@ widget = "portfolio"
 
 headless = true
 active = true
-weight = 6
+weight = 7
 
 [content]
   page_type = "course"
@@ -25,6 +25,4 @@ weight = 6
   view = 1
 +++
 
-I lecture regularly for the foundational computer programming sequence CS 110, CS 111, and CS 210 and on a rotating basis for the major theory courses CS 220 and CS 310 and the elective course CS 440.
-
-This is not an exhaustive list of every course I teach or have taught. I also offer teaching practicums and mentorship for exemplary students by permission.
+I lecture regularly for the computer science major programming courses CS 110, CS 111, and CS 210, for the major theory courses CS 220 and CS 310, and and for the major elective course CS 440, among other offerings. I also mentor undergraduate proctors in the CS 490 teaching practicum. My course syllabi are available upon request.

@@ -6,7 +6,7 @@ widget = "contact"
 
 headless = true
 active = true
-weight = 3
+weight = 4
 
 autolink = true
 email_form = 0
