@@ -66,10 +66,10 @@ interests = [
     icon_pack = "fas"
     link = "https://directory.statler.wvu.edu/faculty-staff-directory/ron-reaser"
 
-[[social]]
-    icon = "slack"
-    icon_pack = "fab"
-    link = "https://reaser.slack.com"
+# [[social]]
+#     icon = "slack"
+#     icon_pack = "fab"
+#     link = "https://reaser.slack.com"
 
 [[social]]
     icon = "github"

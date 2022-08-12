@@ -4,9 +4,11 @@ author = "reaser"
 
 headless = true
 active = true
-weight = 5
+weight = 3
 +++
 
-To better serve the academic needs of my students, I am available by appointment most weekdays during business hours when the university is in session.
+I meet with my students by appointment with generous weekly times and remote options available, rather than a narrow window of office hours on campus.
 
-Visit [my Calendly page](https://calendly.com/reaser) to schedule an appointment.
+You can [schedule an appointment with me](https://calendly.com/reaser) on campus or remote during one of my posted time slots, which are during University [hours of operation](https://www.wvu.edu/faq/what-are-the-hours-of-operation-on-campus) on most weekdays except recesses.
+
+You can also meet with me briefly before or after classes, as available.
