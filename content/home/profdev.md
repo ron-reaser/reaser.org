@@ -8,7 +8,7 @@ weight = 6
 
 +++
 
-+ **Effective Online Teaching Practices, IP** — Association of College and University Educators & American Council on Education ([program](https://tlcommons.wvu.edu/programs-services/learning-communities/online-teaching-practices))
++ **Certificate in [Effective Online Teaching Practices](https://tlcommons.wvu.edu/programs-services/learning-communities/online-teaching-practices) (IP)** — Association of College & University Educators + American Council on Education
 
 <div style="display: inline-flex;">
 
