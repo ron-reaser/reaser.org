@@ -20,7 +20,7 @@ organizations = [
 ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Lane Department at West Virginia University."
+bio = "West Virginia University"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email = "ron.reaser@mail.wvu.edu"
@@ -28,8 +28,10 @@ bio = "Lane Department at West Virginia University."
 # List (academic) interests or hobbies
 interests = [
   "Curriculum Development",
-  "Academic Software",
-  "Student Mentorship"
+  "Educational Software",
+  "Student Mentorship",
+  "Research-Based Practices",
+  "Theory and Applications"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -90,3 +92,5 @@ I am a Teaching Instructor with the [Lane Department of Computer Science and Ele
 I have over a decade of experience teaching undergraduates and graduates in computer science, software engineering, and mathematics.
 
 My career goal is to better meet the academic needs of my students by improving the curriculum and assessment techniques in my field, by developing software tools and collaborative workflows, and by mentoring successive generations of educators and academic professionals.
+
+My curriculum vitae is available upon request.
