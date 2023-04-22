@@ -30,8 +30,8 @@ interests = [
   "Curriculum Development",
   "Educational Software",
   "Student Mentorship",
-  "Research-Based Practices",
-  "Theory and Applications"
+  "Evidence-Based Practices",
+  "Theory &amp; Application"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -58,10 +58,10 @@ interests = [
     icon_pack = "fas"
     link = "mailto:ron.reaser@mail.wvu.edu"
 
-[[social]]
-    icon = "calendar"
-    icon_pack = "fas"
-    link = "https://calendly.com/reaser"
+# [[social]]
+#    icon = "calendar"
+#    icon_pack = "fas"
+#    link = "https://calendly.com/reaser"
 
 [[social]]
     icon = "address-book"

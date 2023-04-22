@@ -7,6 +7,10 @@ active = true
 weight = 6
 +++
 
-I lecture regularly for the computer science major programming course sequence CS 110, CS 111, and CS 210, for the major theory courses CS 220 and CS 310, and for the major elective course CS 440, among other offerings.
+I teach full-time at West Virginia University:
++ The major-required programming sequence Introduction to Computer Science (CS 110), Introduction to Data Structures (CS 111), and Files &amp; Data Structures (CS 210).
++ The major-required theory courses Discrete Mathematics (CS 220) and Principles of Programming Languages (CS 310).
++ The elective theory course Database Design & Theory (CS 440).
++ Honors offerings for selected courses when available.
 
-My course syllabi are available upon request.
+Please contact me if you need a course syllabus.
